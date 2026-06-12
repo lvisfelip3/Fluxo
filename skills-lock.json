@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "angular-performance": {
+      "source": "gentleman-programming/gentleman-skills",
+      "sourceType": "github",
+      "skillPath": "curated/angular/performance/SKILL.md",
+      "computedHash": "0e9592a304576bc440c0ab3b1599389057ed0dde4876d920dcad46522b9ea5fc"
+    },
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman/SKILL.md",
+      "computedHash": "7935e83f9c6a8b7cbb5404d144b0d19e3ba93583f4388301c3dada37cd25adf8"
+    },
+    "grill-me": {
+      "source": "julianoczkowski/designer-skills",
+      "sourceType": "github",
+      "skillPath": "grill-me/SKILL.md",
+      "computedHash": "cc7460fe4bba47e11588ef77ff4a1c689fbe081bc3d69d8fcc57bf370abb61ea"
+    }
+  }
+}
