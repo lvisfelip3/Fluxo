@@ -4,6 +4,11 @@
   "compileOnSave": false,
   "compilerOptions": {
     "strict": true,
+    "paths": {
+      "fluxo": [
+        "./dist/fluxo"
+      ]
+    },
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
@@ -21,5 +26,19 @@
     "strictInputAccessModifiers": true,
     "strictTemplates": true
   },
-  "files": []
+  "files": [],
+  "references": [
+    {
+      "path": "./projects/fluxo/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/fluxo/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/landing/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/landing/tsconfig.spec.json"
+    }
+  ]
 }
